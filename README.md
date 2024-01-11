@@ -10,4 +10,4 @@ Welcome to the LeetCode - 30 Days of JavaScript repository! 🌟 Here, you'll fi
 ## Getting Started
 - Clone this repository to your local machine.
   ```bash
-  git clone https://github.com/your-username/LeetCode-30Days-JS.git
+  git clone https://github.com/soumyajeetsengupta/Leetcode---30-Days-Of-JavaScript.git
